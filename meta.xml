@@ -1,0 +1,5 @@
+<meta>
+     <info author="rusekh" name="SecureWatch-AC" description="beta public anti cheat" />
+     <script src="server.lua" type="server" />
+     <script src="client.lua" type="client" cache="false" />
+</meta>
